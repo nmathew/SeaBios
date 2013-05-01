@@ -1,4 +1,0 @@
-SeaBios
-=======
-
-Custom SeaBios
